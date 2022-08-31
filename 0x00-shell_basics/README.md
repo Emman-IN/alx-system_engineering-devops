@@ -46,4 +46,5 @@ Create a script that creates the directories welcome/, welcome/to/ and welcome/t
 
 You are only allowed to use two spaces (and lines) in your script, not more.
 
-
+18. Life is a series of commas, not periods
+#advanced
