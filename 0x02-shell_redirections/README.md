@@ -9,3 +9,8 @@ Learning Shell, I/O Redirections and filters
 3. Display the content of /etc/passwd and /etc/hosts
 4. Display the last 10 lines of /etc/passwd
 
+6. rite a script that displays the third line of the file iacta.
+
+The file iacta will be in the working directory
+
+You’re not allowed to use sed
