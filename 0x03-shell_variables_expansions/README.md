@@ -15,3 +15,7 @@ Create a script that counts the number of directories in the PATH.
 
 Name: BEST
 Value: School
+7. Create a script that creates a new global variable.
+
+Name: BEST
+Value: School
